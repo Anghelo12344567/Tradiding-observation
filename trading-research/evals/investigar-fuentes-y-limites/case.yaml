@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: investigar-fuentes-y-limites
+expected_outcome: |
+  Informe con la estructura de la plantilla: hechos con fuente y fecha, calendario de eventos, escenarios con condición de invalidación, sección «Qué no sé» y lista de fuentes. No da precio objetivo como certeza ni recomendación de compra.

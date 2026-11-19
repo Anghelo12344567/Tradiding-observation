@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: riesgo-calcula-tamano
+expected_outcome: |
+  Calcula con el script riesgo.py un tamaño de 66 unidades (riesgo real unos 99 €), ratio riesgo/beneficio 3,33 y acierto mínimo para no perder 23,1 %. No da señal de compra ni promete resultado, y recuerda que no es consejo financiero.

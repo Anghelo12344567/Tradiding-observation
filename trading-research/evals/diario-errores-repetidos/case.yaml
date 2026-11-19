@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: diario-errores-repetidos
+expected_outcome: |
+  Ejecuta diario.py sobre diario.csv y señala que sin-stop (5 veces, unos -1.410) y venganza (3 veces, unos -1.060) son los errores más caros, avisa de que 28 operaciones es muestra pequeña y propone reglas comprobables antes de entrar, sin prometer mejoras.
+context:
+  scaffold_script: place-files.sh
